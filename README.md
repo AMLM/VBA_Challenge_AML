@@ -1,4 +1,4 @@
-VBA scripting to analyze real stock market data for Data Science Bootcamp UPenn
+VBA scripting to analyze real stock market data.
 
 Actions: Stock Market Analyst
 
@@ -13,7 +13,7 @@ Test_Data.xlsm
 
 
 
-Instructions taken>
+Actions>
 
 1. Created script that will loop through all the stocks for one year and output the following information:
 
